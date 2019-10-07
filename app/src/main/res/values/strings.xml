@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="billEditHint_string">Bill amount</string>
+    <string name="partyhint_string">how many split?</string>
+</resources>
